@@ -1,0 +1,14 @@
+{
+  "name": "anagram-test",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-istanbul": "^0.10.3",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-mocha": "^2.2.0",
+    "gulp-sequence": "^0.4.5",
+    "require-dir": "^0.3.0",
+    "should": "^11.1.1"
+  }
+}
