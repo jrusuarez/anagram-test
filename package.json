@@ -1,7 +1,9 @@
 {
   "name": "anagram-test",
   "version": "1.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "validate.io-anagram": "^1.0.0"
+  },
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-istanbul": "^0.10.3",
